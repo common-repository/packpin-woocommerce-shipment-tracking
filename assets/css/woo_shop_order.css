@@ -1,0 +1,24 @@
+#packpin_links #packpin_reset_info{
+    color: #a00;
+}
+
+.ppErrorLink{
+    color: #a00;
+}
+
+#packpin_links{
+    table-layout: fixed;
+    width: 100%;
+}
+
+#packpin_links td{
+    width: 50%;
+}
+
+#packpin_links td:last-child{
+    text-align: right;
+}
+
+input#packpin_code {
+    width: 100%;
+}
